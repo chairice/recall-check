@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D73856AD2CA875F500314C57 /* CameraView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D73856AC2CA875F500314C57 /* CameraView.swift */; };
+		D73856AF2CA8760700314C57 /* DataView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D73856AE2CA8760700314C57 /* DataView.swift */; };
+		D73856B32CA8768B00314C57 /* AlertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D73856B22CA8768B00314C57 /* AlertView.swift */; };
 		D7D035582CA870C700D1E701 /* RecallCheckerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7D035572CA870C700D1E701 /* RecallCheckerApp.swift */; };
 		D7D0355A2CA870C700D1E701 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7D035592CA870C700D1E701 /* ContentView.swift */; };
 		D7D0355C2CA870CC00D1E701 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7D0355B2CA870CC00D1E701 /* Assets.xcassets */; };
@@ -34,6 +37,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D73856AC2CA875F500314C57 /* CameraView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraView.swift; sourceTree = "<group>"; };
+		D73856AE2CA8760700314C57 /* DataView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataView.swift; sourceTree = "<group>"; };
+		D73856B22CA8768B00314C57 /* AlertView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertView.swift; sourceTree = "<group>"; };
 		D7D035542CA870C700D1E701 /* RecallChecker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RecallChecker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7D035572CA870C700D1E701 /* RecallCheckerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecallCheckerApp.swift; sourceTree = "<group>"; };
 		D7D035592CA870C700D1E701 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -97,6 +103,9 @@
 				D7D035572CA870C700D1E701 /* RecallCheckerApp.swift */,
 				D7D035592CA870C700D1E701 /* ContentView.swift */,
 				D7D0355B2CA870CC00D1E701 /* Assets.xcassets */,
+				D73856B22CA8768B00314C57 /* AlertView.swift */,
+				D73856AC2CA875F500314C57 /* CameraView.swift */,
+				D73856AE2CA8760700314C57 /* DataView.swift */,
 				D7D0355D2CA870CC00D1E701 /* Preview Content */,
 			);
 			path = RecallChecker;
@@ -257,7 +266,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D73856B32CA8768B00314C57 /* AlertView.swift in Sources */,
+				D73856AD2CA875F500314C57 /* CameraView.swift in Sources */,
 				D7D0355A2CA870C700D1E701 /* ContentView.swift in Sources */,
+				D73856AF2CA8760700314C57 /* DataView.swift in Sources */,
 				D7D035582CA870C700D1E701 /* RecallCheckerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
