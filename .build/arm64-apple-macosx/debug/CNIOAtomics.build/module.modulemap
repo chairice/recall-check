@@ -1,0 +1,4 @@
+module CNIOAtomics {
+    umbrella header "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/CNIOAtomics.h"
+    export *
+}

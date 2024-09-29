@@ -1,0 +1,4 @@
+module NIOTLS {
+    header "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/NIOTLS.build/NIOTLS-Swift.h"
+    requires objc
+}

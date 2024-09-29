@@ -1,0 +1,4 @@
+module NIOFileSystem {
+    header "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/NIOFileSystem.build/NIOFileSystem-Swift.h"
+    requires objc
+}

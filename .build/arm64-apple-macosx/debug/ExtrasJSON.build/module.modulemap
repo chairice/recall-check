@@ -1,0 +1,4 @@
+module ExtrasJSON {
+    header "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/ExtrasJSON-Swift.h"
+    requires objc
+}

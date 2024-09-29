@@ -1,0 +1,185 @@
+{
+  "": {
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/master.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/Array+BSONValue.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/Array+BSONValue.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/Array+BSONValue.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/Array+BSONValue~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/Array+BSONValue.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/BSON.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSON.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSON.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSON~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSON.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/BSONBinary.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONBinary.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONBinary.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONBinary~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONBinary.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/BSONCode.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONCode.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONCode.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONCode~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONCode.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/BSONDBPointer.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDBPointer.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDBPointer.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDBPointer~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDBPointer.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/BSONDecimal128.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDecimal128.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDecimal128.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDecimal128~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDecimal128.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/BSONDecoder.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDecoder.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDecoder.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDecoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDecoder.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/BSONDocument+Collection.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDocument+Collection.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDocument+Collection.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDocument+Collection~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDocument+Collection.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/BSONDocument+Sequence.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDocument+Sequence.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDocument+Sequence.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDocument+Sequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDocument+Sequence.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/BSONDocument.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDocument.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDocument.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDocument~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDocument.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/BSONDocumentIterator.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDocumentIterator.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDocumentIterator.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDocumentIterator~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONDocumentIterator.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/BSONEncoder.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONEncoder.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONEncoder.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONEncoder.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/BSONError.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONError.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONError.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONError~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONError.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/BSONNulls.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONNulls.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONNulls.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONNulls~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONNulls.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/BSONObjectID.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONObjectID.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONObjectID.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONObjectID~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONObjectID.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/BSONRegularExpression.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONRegularExpression.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONRegularExpression.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONRegularExpression~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONRegularExpression.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/BSONSymbol.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONSymbol.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONSymbol.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONSymbol~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONSymbol.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/BSONTimestamp.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONTimestamp.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONTimestamp.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONTimestamp~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONTimestamp.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/BSONValue.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONValue.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONValue.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONValue~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/BSONValue.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/Bool+BSONValue.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/Bool+BSONValue.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/Bool+BSONValue.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/Bool+BSONValue~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/Bool+BSONValue.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/ByteBuffer+BSON.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/ByteBuffer+BSON.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/ByteBuffer+BSON.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/ByteBuffer+BSON~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/ByteBuffer+BSON.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/CodableNumber.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/CodableNumber.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/CodableNumber.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/CodableNumber~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/CodableNumber.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/CodingStrategies.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/CodingStrategies.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/CodingStrategies.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/CodingStrategies~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/CodingStrategies.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/Date+BSONValue.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/Date+BSONValue.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/Date+BSONValue.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/Date+BSONValue~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/Date+BSONValue.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/Double+BSONValue.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/Double+BSONValue.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/Double+BSONValue.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/Double+BSONValue~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/Double+BSONValue.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/ExtendedJSONDecoder.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/ExtendedJSONDecoder.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/ExtendedJSONDecoder.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/ExtendedJSONDecoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/ExtendedJSONDecoder.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/ExtendedJSONEncoder.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/ExtendedJSONEncoder.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/ExtendedJSONEncoder.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/ExtendedJSONEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/ExtendedJSONEncoder.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/Integers+BSONValue.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/Integers+BSONValue.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/Integers+BSONValue.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/Integers+BSONValue~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/Integers+BSONValue.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/JSON.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/JSON.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/JSON.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/JSON~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/JSON.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-bson/Sources/SwiftBSON/String+BSONValue.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/String+BSONValue.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/String+BSONValue.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/String+BSONValue~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/String+BSONValue.swiftdeps"
+  }
+}

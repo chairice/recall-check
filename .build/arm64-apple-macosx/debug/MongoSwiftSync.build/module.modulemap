@@ -1,0 +1,4 @@
+module MongoSwiftSync {
+    header "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoSwiftSync-Swift.h"
+    requires objc
+}

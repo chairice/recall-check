@@ -1,0 +1,83 @@
+{
+  "": {
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/master.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-extras-json/Sources/ExtrasJSON/ArrayKey.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/ArrayKey.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/ArrayKey.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/ArrayKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/ArrayKey.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-extras-json/Sources/ExtrasJSON/Decoding/JSONDecoder.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONDecoder.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONDecoder.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONDecoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONDecoder.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-extras-json/Sources/ExtrasJSON/Decoding/JSONKeyedDecodingContainer.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONKeyedDecodingContainer.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONKeyedDecodingContainer.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONKeyedDecodingContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONKeyedDecodingContainer.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-extras-json/Sources/ExtrasJSON/Decoding/JSONSingleValueDecodingContainer.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONSingleValueDecodingContainer.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONSingleValueDecodingContainer.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONSingleValueDecodingContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONSingleValueDecodingContainer.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-extras-json/Sources/ExtrasJSON/Decoding/JSONUnkeyedDecodingContainer.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONUnkeyedDecodingContainer.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONUnkeyedDecodingContainer.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONUnkeyedDecodingContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONUnkeyedDecodingContainer.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-extras-json/Sources/ExtrasJSON/Encoding/JSONEncoder.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONEncoder.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONEncoder.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONEncoder.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-extras-json/Sources/ExtrasJSON/Encoding/JSONKeyedEncodingContainer.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONKeyedEncodingContainer.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONKeyedEncodingContainer.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONKeyedEncodingContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONKeyedEncodingContainer.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-extras-json/Sources/ExtrasJSON/Encoding/JSONSingleValueEncodingContainer.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONSingleValueEncodingContainer.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONSingleValueEncodingContainer.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONSingleValueEncodingContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONSingleValueEncodingContainer.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-extras-json/Sources/ExtrasJSON/Encoding/JSONUnkeyedEncodingContainer.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONUnkeyedEncodingContainer.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONUnkeyedEncodingContainer.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONUnkeyedEncodingContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONUnkeyedEncodingContainer.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-extras-json/Sources/ExtrasJSON/JSONError+DecodingError.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONError+DecodingError.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONError+DecodingError.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONError+DecodingError~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONError+DecodingError.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-extras-json/Sources/ExtrasJSON/JSONValue.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONValue.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONValue.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONValue~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONValue.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-extras-json/Sources/ExtrasJSON/Parsing/DocumentReader.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/DocumentReader.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/DocumentReader.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/DocumentReader~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/DocumentReader.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-extras-json/Sources/ExtrasJSON/Parsing/JSONParser.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONParser.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONParser.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/ExtrasJSON.build/JSONParser.swiftdeps"
+  }
+}

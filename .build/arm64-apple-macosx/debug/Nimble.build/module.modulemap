@@ -1,0 +1,4 @@
+module Nimble {
+    header "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/Nimble.build/Nimble-Swift.h"
+    requires objc
+}

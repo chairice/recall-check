@@ -1,0 +1,4 @@
+module NimbleCwlCatchException {
+    header "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/NimbleCwlCatchException.build/NimbleCwlCatchException-Swift.h"
+    requires objc
+}

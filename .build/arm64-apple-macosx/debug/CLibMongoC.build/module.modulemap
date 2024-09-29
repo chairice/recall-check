@@ -1,0 +1,4 @@
+module CLibMongoC {
+    umbrella header "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/mongo-swift-driver/Sources/CLibMongoC/include/CLibMongoC.h"
+    export *
+}

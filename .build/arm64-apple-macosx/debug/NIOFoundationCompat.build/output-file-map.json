@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/NIOFoundationCompat.build/master.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-nio/Sources/NIOFoundationCompat/ByteBuffer-foundation.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/NIOFoundationCompat.build/ByteBuffer-foundation.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/NIOFoundationCompat.build/ByteBuffer-foundation.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/NIOFoundationCompat.build/ByteBuffer-foundation~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/NIOFoundationCompat.build/ByteBuffer-foundation.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-nio/Sources/NIOFoundationCompat/Codable+ByteBuffer.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/NIOFoundationCompat.build/Codable+ByteBuffer.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/NIOFoundationCompat.build/Codable+ByteBuffer.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/NIOFoundationCompat.build/Codable+ByteBuffer~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/NIOFoundationCompat.build/Codable+ByteBuffer.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-nio/Sources/NIOFoundationCompat/JSONSerialization+ByteBuffer.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/NIOFoundationCompat.build/JSONSerialization+ByteBuffer.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/NIOFoundationCompat.build/JSONSerialization+ByteBuffer.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/NIOFoundationCompat.build/JSONSerialization+ByteBuffer~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/NIOFoundationCompat.build/JSONSerialization+ByteBuffer.swiftdeps"
+  }
+}

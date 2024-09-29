@@ -1,0 +1,4 @@
+module CNIOWASI {
+    umbrella header "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/swift-nio/Sources/CNIOWASI/include/CNIOWASI.h"
+    export *
+}

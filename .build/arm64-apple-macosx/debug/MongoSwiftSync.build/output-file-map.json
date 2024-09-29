@@ -1,0 +1,83 @@
+{
+  "": {
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/master.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/mongo-swift-driver/Sources/MongoSwiftSync/ChangeStream.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/ChangeStream.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/ChangeStream.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/ChangeStream~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/ChangeStream.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/mongo-swift-driver/Sources/MongoSwiftSync/ClientSession.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/ClientSession.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/ClientSession.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/ClientSession~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/ClientSession.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/mongo-swift-driver/Sources/MongoSwiftSync/CursorCommon.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/CursorCommon.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/CursorCommon.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/CursorCommon~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/CursorCommon.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/mongo-swift-driver/Sources/MongoSwiftSync/Exports.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/Exports.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/Exports.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/Exports.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/mongo-swift-driver/Sources/MongoSwiftSync/MongoClient.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoClient.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoClient.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoClient.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/mongo-swift-driver/Sources/MongoSwiftSync/MongoCollection+ChangeStreams.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCollection+ChangeStreams.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCollection+ChangeStreams.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCollection+ChangeStreams~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCollection+ChangeStreams.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/mongo-swift-driver/Sources/MongoSwiftSync/MongoCollection+FindAndModify.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCollection+FindAndModify.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCollection+FindAndModify.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCollection+FindAndModify~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCollection+FindAndModify.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/mongo-swift-driver/Sources/MongoSwiftSync/MongoCollection+Indexes.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCollection+Indexes.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCollection+Indexes.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCollection+Indexes~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCollection+Indexes.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/mongo-swift-driver/Sources/MongoSwiftSync/MongoCollection+Read.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCollection+Read.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCollection+Read.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCollection+Read~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCollection+Read.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/mongo-swift-driver/Sources/MongoSwiftSync/MongoCollection+Write.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCollection+Write.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCollection+Write.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCollection+Write~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCollection+Write.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/mongo-swift-driver/Sources/MongoSwiftSync/MongoCollection.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCollection.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCollection.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCollection~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCollection.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/mongo-swift-driver/Sources/MongoSwiftSync/MongoCursor.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCursor.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCursor.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCursor~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoCursor.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/mongo-swift-driver/Sources/MongoSwiftSync/MongoDatabase.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoDatabase.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoDatabase.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoDatabase~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwiftSync.build/MongoDatabase.swiftdeps"
+  }
+}

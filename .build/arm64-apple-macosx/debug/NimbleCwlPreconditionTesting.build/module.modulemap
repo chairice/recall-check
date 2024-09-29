@@ -1,0 +1,4 @@
+module NimbleCwlPreconditionTesting {
+    header "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/NimbleCwlPreconditionTesting.build/NimbleCwlPreconditionTesting-Swift.h"
+    requires objc
+}

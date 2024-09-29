@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/NimbleCwlCatchException.build/master.swiftdeps"
+  },
+  "/Users/caseyfeng/mhacks24/recall-check/.build/checkouts/Nimble/Carthage/Checkouts/CwlPreconditionTesting/Dependencies/CwlCatchException/Sources/CwlCatchException/CwlCatchException.swift": {
+    "dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/NimbleCwlCatchException.build/CwlCatchException.d",
+    "object": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/NimbleCwlCatchException.build/CwlCatchException.swift.o",
+    "swiftmodule": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/NimbleCwlCatchException.build/CwlCatchException~partial.swiftmodule",
+    "swift-dependencies": "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/NimbleCwlCatchException.build/CwlCatchException.swiftdeps"
+  }
+}

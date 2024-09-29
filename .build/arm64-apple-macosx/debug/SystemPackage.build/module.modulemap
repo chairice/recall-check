@@ -1,0 +1,4 @@
+module SystemPackage {
+    header "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SystemPackage.build/SystemPackage-Swift.h"
+    requires objc
+}

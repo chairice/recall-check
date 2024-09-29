@@ -1,0 +1,4 @@
+module MongoSwift {
+    header "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/MongoSwift.build/MongoSwift-Swift.h"
+    requires objc
+}

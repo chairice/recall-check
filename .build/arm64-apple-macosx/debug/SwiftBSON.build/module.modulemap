@@ -1,0 +1,4 @@
+module SwiftBSON {
+    header "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/SwiftBSON.build/SwiftBSON-Swift.h"
+    requires objc
+}

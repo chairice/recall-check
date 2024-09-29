@@ -1,0 +1,4 @@
+module Collections {
+    header "/Users/caseyfeng/mhacks24/recall-check/.build/arm64-apple-macosx/debug/Collections.build/Collections-Swift.h"
+    requires objc
+}
