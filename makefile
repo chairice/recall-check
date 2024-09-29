@@ -1,11 +1,11 @@
 .PHONY: run compile clean
-run: main
+run: item
 	./main
-compile main: main.o
-	gcc -o main main.o
-main.o: main.c
-	gcc -c main.c
+compile item: item.o
+	gcc -o item item.o
+item.o: item.c
+	gcc -c item.c
 clean:
 	rm *.o
-	rm main
+	rm item
 	rm *.gch

@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include "returning.h"
 
 #define MAX_LINE_LENGTH 256
 #define MAX_ITEMS 10
@@ -35,11 +36,11 @@ void printItem(struct Item item) {
     printf("Date Recalled: %s\n\n", item.date_recalled);
 }
 
-int main() {
-    FILE *file = fopen("UPC.csv", "r");
+struct Returning itemParser(char* fileName, char barcodes[]) {
+    FILE *file = fopen(fileName, "r");
     if (file == NULL) {
         printf("Error: Could not open file\n");
-        return 1;
+        exit(-1);
     }
 
     char line[MAX_LINE_LENGTH];
@@ -72,6 +73,20 @@ int main() {
     for (int i = 0; i < itemCount; i++) {
         printItem(items[i]);
     }
+    struct Returning r;
+    for (int i = 0; i < itemCount; i++){
+        strcpy(r.item_names[i], items[i].item_name);
+        strcpy(r.date_recalled[i], items[i].date_recalled);
+        r.is_match[i] = 0;
+        for (int j = 0; j < sizeof(barcodes); j++){
+            if (strcmp(&barcodes[j], items[i].prod_num) == 0){
+                r.is_match[i] = 1;
+            }
+        }
+    }
+}
 
-    return 0;
+int main(){
+    struct Returning r; 
+    r = itemParser("UPC.csv", )
 }
