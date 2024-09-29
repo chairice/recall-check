@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+@main
 struct BarcodeTextScannerApp: App {
     
     @StateObject private var vm = AppViewModel()
