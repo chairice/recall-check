@@ -7,7 +7,6 @@
 
 import SwiftUI
 
-@main
 struct RecallCheckerApp: App {
     var body: some Scene {
         WindowGroup {

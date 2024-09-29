@@ -1,7 +1,8 @@
+
 //
 //  AppViewModel.swift
 //  RecallChecker
-//
+//46:36
 //  Created by Pari Gulati on 9/28/24.
 //
 import AVKit
@@ -10,7 +11,7 @@ import SwiftUI
 import VisionKit
 
 
-enum ScanType {
+enum ScanType: String {
     case barcode, text
 }
 enum DataScannerAccessStatusType {
@@ -24,14 +25,41 @@ enum DataScannerAccessStatusType {
 @MainActor
 final class AppViewModel: ObservableObject {
     
-    @Published var dataScannerAccessStatus: DataScannerAccessStatusType = .notDetermined
+    @Published var dataScannerAccessStatus:
+    DataScannerAccessStatusType = .notDetermined
     @Published var recognizedItems: [RecognizedItem] = []
     @Published var scanType: ScanType = .barcode
-    @Published var textContentType: UITextContentType?
+    @Published var textContentType: 
+    DataScannerViewController.TextContentType?
     @Published var recognizeMultipleItems = true
     
+  var recognizedDataType:
+    DataScannerViewController.RecognizedDataType {
+        scanType == .barcode ? .barcode() :
+            .text(textContentType: textContentType)
+    }
+    
+    var headerText: String {
+        if recognizedItems.isEmpty {
+            return "Scanning \(scanType.rawValue)"
+        } else {
+            return "Recognized \(recognizedItems.count) item(s)"
+        }
+    }
+    
+    var dataScannerViewId: Int {
+      var hasher = Hasher()
+      hasher.combine(scanType)
+      hasher.combine(recognizeMultipleItems)
+      if let textContentType {
+          hasher.combine(textContentType)
+      }
+      return hasher.finalize()
+  }
+    
     private var isScannerAvailable: Bool {
-        DataScannerViewController.isAvailable && DataScannerViewController.isSupported
+        DataScannerViewController.isAvailable
+        && DataScannerViewController.isSupported
     }
     
     func requestDataScannerAccessStatus() async {
