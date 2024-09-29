@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "swift-lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:recall-check}",
+            "name": "Debug recall-check",
+            "program": "${workspaceFolder:recall-check}/.build/debug/recall-check",
+            "preLaunchTask": "swift: Build Debug recall-check"
+        },
+        {
+            "type": "swift-lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:recall-check}",
+            "name": "Release recall-check",
+            "program": "${workspaceFolder:recall-check}/.build/release/recall-check",
+            "preLaunchTask": "swift: Build Release recall-check"
+        }
+    ]
+}
