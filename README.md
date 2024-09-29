@@ -24,5 +24,9 @@ We learned that Hackathons can be fun! A shared all-nighter is definitely a grea
 ## What's next for ReGuard
 Presently, our product scans UPC barcodes and immediately compares the product data to all previously recalled products, clearly indicating if an item has been recalled in the past. This, in tandem with our map and location feature, is particularly useful for shoppers seeking immediate feedback on recalled products. To help consumers stay aware of new recalls and health alerts post-purchase, our app will log receipt scans and update the saved shopping items as the FDA updates product recalls (daily or weekly depending on the product). Furthermore, as saved items become flagged as newly recalled products, the user will receive an alert in real-time. 
 
-
-
+## How to use
+Setup: This app is run and modeled from Xcode. Into a new repository, start by doing
+```
+clone https://github.com/chairice/recall-check.git
+```
+to install all files on your local device. Make sure that Xcode is installed, then connect a mobile IOS device to your machine via cable. Then, run Xcode and open `RecallChecker.xcodeproj` to use the app on your phone.
