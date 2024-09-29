@@ -1,13 +1,13 @@
 //
-//  myyfileUITestsLaunchTests.swift
-//  myyfileUITests
+//  caseydatabaseUITestsLaunchTests.swift
+//  caseydatabaseUITests
 //
 //  Created by Casey Feng on 9/28/24.
 //
 
 import XCTest
 
-final class myyfileUITestsLaunchTests: XCTestCase {
+final class caseydatabaseUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

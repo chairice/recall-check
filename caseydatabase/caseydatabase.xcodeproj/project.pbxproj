@@ -7,62 +7,62 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		ACEEC9C72CA8F5570025B89A /* PBXContainerItemProxy */ = {
+		ACEECA4E2CA8FCB70025B89A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = ACEEC9AD2CA8F5550025B89A /* Project object */;
+			containerPortal = ACEECA352CA8FCB60025B89A /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = ACEEC9B42CA8F5550025B89A;
-			remoteInfo = myyfile;
+			remoteGlobalIDString = ACEECA3C2CA8FCB60025B89A;
+			remoteInfo = caseydatabase;
 		};
-		ACEEC9D12CA8F5570025B89A /* PBXContainerItemProxy */ = {
+		ACEECA582CA8FCB70025B89A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = ACEEC9AD2CA8F5550025B89A /* Project object */;
+			containerPortal = ACEECA352CA8FCB60025B89A /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = ACEEC9B42CA8F5550025B89A;
-			remoteInfo = myyfile;
+			remoteGlobalIDString = ACEECA3C2CA8FCB60025B89A;
+			remoteInfo = caseydatabase;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		ACEEC9B52CA8F5550025B89A /* myyfile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myyfile.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		ACEEC9C62CA8F5570025B89A /* myyfileTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = myyfileTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		ACEEC9D02CA8F5570025B89A /* myyfileUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = myyfileUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		ACEECA3D2CA8FCB60025B89A /* caseydatabase.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = caseydatabase.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		ACEECA4D2CA8FCB70025B89A /* caseydatabaseTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = caseydatabaseTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		ACEECA572CA8FCB70025B89A /* caseydatabaseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = caseydatabaseUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		ACEEC9B72CA8F5550025B89A /* myyfile */ = {
+		ACEECA3F2CA8FCB60025B89A /* caseydatabase */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = myyfile;
+			path = caseydatabase;
 			sourceTree = "<group>";
 		};
-		ACEEC9C92CA8F5570025B89A /* myyfileTests */ = {
+		ACEECA502CA8FCB70025B89A /* caseydatabaseTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = myyfileTests;
+			path = caseydatabaseTests;
 			sourceTree = "<group>";
 		};
-		ACEEC9D32CA8F5570025B89A /* myyfileUITests */ = {
+		ACEECA5A2CA8FCB70025B89A /* caseydatabaseUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = myyfileUITests;
+			path = caseydatabaseUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		ACEEC9B22CA8F5550025B89A /* Frameworks */ = {
+		ACEECA3A2CA8FCB60025B89A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		ACEEC9C32CA8F5570025B89A /* Frameworks */ = {
+		ACEECA4A2CA8FCB70025B89A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		ACEEC9CD2CA8F5570025B89A /* Frameworks */ = {
+		ACEECA542CA8FCB70025B89A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		ACEEC9AC2CA8F5550025B89A = {
+		ACEECA342CA8FCB60025B89A = {
 			isa = PBXGroup;
 			children = (
-				ACEEC9B72CA8F5550025B89A /* myyfile */,
-				ACEEC9C92CA8F5570025B89A /* myyfileTests */,
-				ACEEC9D32CA8F5570025B89A /* myyfileUITests */,
-				ACEEC9B62CA8F5550025B89A /* Products */,
+				ACEECA3F2CA8FCB60025B89A /* caseydatabase */,
+				ACEECA502CA8FCB70025B89A /* caseydatabaseTests */,
+				ACEECA5A2CA8FCB70025B89A /* caseydatabaseUITests */,
+				ACEECA3E2CA8FCB60025B89A /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		ACEEC9B62CA8F5550025B89A /* Products */ = {
+		ACEECA3E2CA8FCB60025B89A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				ACEEC9B52CA8F5550025B89A /* myyfile.app */,
-				ACEEC9C62CA8F5570025B89A /* myyfileTests.xctest */,
-				ACEEC9D02CA8F5570025B89A /* myyfileUITests.xctest */,
+				ACEECA3D2CA8FCB60025B89A /* caseydatabase.app */,
+				ACEECA4D2CA8FCB70025B89A /* caseydatabaseTests.xctest */,
+				ACEECA572CA8FCB70025B89A /* caseydatabaseUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		ACEEC9B42CA8F5550025B89A /* myyfile */ = {
+		ACEECA3C2CA8FCB60025B89A /* caseydatabase */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = ACEEC9DA2CA8F5570025B89A /* Build configuration list for PBXNativeTarget "myyfile" */;
+			buildConfigurationList = ACEECA612CA8FCB70025B89A /* Build configuration list for PBXNativeTarget "caseydatabase" */;
 			buildPhases = (
-				ACEEC9B12CA8F5550025B89A /* Sources */,
-				ACEEC9B22CA8F5550025B89A /* Frameworks */,
-				ACEEC9B32CA8F5550025B89A /* Resources */,
+				ACEECA392CA8FCB60025B89A /* Sources */,
+				ACEECA3A2CA8FCB60025B89A /* Frameworks */,
+				ACEECA3B2CA8FCB60025B89A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				ACEEC9B72CA8F5550025B89A /* myyfile */,
+				ACEECA3F2CA8FCB60025B89A /* caseydatabase */,
 			);
-			name = myyfile;
+			name = caseydatabase;
 			packageProductDependencies = (
 			);
-			productName = myyfile;
-			productReference = ACEEC9B52CA8F5550025B89A /* myyfile.app */;
+			productName = caseydatabase;
+			productReference = ACEECA3D2CA8FCB60025B89A /* caseydatabase.app */;
 			productType = "com.apple.product-type.application";
 		};
-		ACEEC9C52CA8F5570025B89A /* myyfileTests */ = {
+		ACEECA4C2CA8FCB70025B89A /* caseydatabaseTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = ACEEC9DD2CA8F5570025B89A /* Build configuration list for PBXNativeTarget "myyfileTests" */;
+			buildConfigurationList = ACEECA642CA8FCB70025B89A /* Build configuration list for PBXNativeTarget "caseydatabaseTests" */;
 			buildPhases = (
-				ACEEC9C22CA8F5570025B89A /* Sources */,
-				ACEEC9C32CA8F5570025B89A /* Frameworks */,
-				ACEEC9C42CA8F5570025B89A /* Resources */,
+				ACEECA492CA8FCB70025B89A /* Sources */,
+				ACEECA4A2CA8FCB70025B89A /* Frameworks */,
+				ACEECA4B2CA8FCB70025B89A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				ACEEC9C82CA8F5570025B89A /* PBXTargetDependency */,
+				ACEECA4F2CA8FCB70025B89A /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				ACEEC9C92CA8F5570025B89A /* myyfileTests */,
+				ACEECA502CA8FCB70025B89A /* caseydatabaseTests */,
 			);
-			name = myyfileTests;
+			name = caseydatabaseTests;
 			packageProductDependencies = (
 			);
-			productName = myyfileTests;
-			productReference = ACEEC9C62CA8F5570025B89A /* myyfileTests.xctest */;
+			productName = caseydatabaseTests;
+			productReference = ACEECA4D2CA8FCB70025B89A /* caseydatabaseTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		ACEEC9CF2CA8F5570025B89A /* myyfileUITests */ = {
+		ACEECA562CA8FCB70025B89A /* caseydatabaseUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = ACEEC9E02CA8F5570025B89A /* Build configuration list for PBXNativeTarget "myyfileUITests" */;
+			buildConfigurationList = ACEECA672CA8FCB70025B89A /* Build configuration list for PBXNativeTarget "caseydatabaseUITests" */;
 			buildPhases = (
-				ACEEC9CC2CA8F5570025B89A /* Sources */,
-				ACEEC9CD2CA8F5570025B89A /* Frameworks */,
-				ACEEC9CE2CA8F5570025B89A /* Resources */,
+				ACEECA532CA8FCB70025B89A /* Sources */,
+				ACEECA542CA8FCB70025B89A /* Frameworks */,
+				ACEECA552CA8FCB70025B89A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				ACEEC9D22CA8F5570025B89A /* PBXTargetDependency */,
+				ACEECA592CA8FCB70025B89A /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				ACEEC9D32CA8F5570025B89A /* myyfileUITests */,
+				ACEECA5A2CA8FCB70025B89A /* caseydatabaseUITests */,
 			);
-			name = myyfileUITests;
+			name = caseydatabaseUITests;
 			packageProductDependencies = (
 			);
-			productName = myyfileUITests;
-			productReference = ACEEC9D02CA8F5570025B89A /* myyfileUITests.xctest */;
+			productName = caseydatabaseUITests;
+			productReference = ACEECA572CA8FCB70025B89A /* caseydatabaseUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		ACEEC9AD2CA8F5550025B89A /* Project object */ = {
+		ACEECA352CA8FCB60025B89A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1600;
 				LastUpgradeCheck = 1600;
 				TargetAttributes = {
-					ACEEC9B42CA8F5550025B89A = {
+					ACEECA3C2CA8FCB60025B89A = {
 						CreatedOnToolsVersion = 16.0;
 					};
-					ACEEC9C52CA8F5570025B89A = {
+					ACEECA4C2CA8FCB70025B89A = {
 						CreatedOnToolsVersion = 16.0;
-						TestTargetID = ACEEC9B42CA8F5550025B89A;
+						TestTargetID = ACEECA3C2CA8FCB60025B89A;
 					};
-					ACEEC9CF2CA8F5570025B89A = {
+					ACEECA562CA8FCB70025B89A = {
 						CreatedOnToolsVersion = 16.0;
-						TestTargetID = ACEEC9B42CA8F5550025B89A;
+						TestTargetID = ACEECA3C2CA8FCB60025B89A;
 					};
 				};
 			};
-			buildConfigurationList = ACEEC9B02CA8F5550025B89A /* Build configuration list for PBXProject "myyfile" */;
+			buildConfigurationList = ACEECA382CA8FCB60025B89A /* Build configuration list for PBXProject "caseydatabase" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = ACEEC9AC2CA8F5550025B89A;
+			mainGroup = ACEECA342CA8FCB60025B89A;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = ACEEC9B62CA8F5550025B89A /* Products */;
+			productRefGroup = ACEECA3E2CA8FCB60025B89A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				ACEEC9B42CA8F5550025B89A /* myyfile */,
-				ACEEC9C52CA8F5570025B89A /* myyfileTests */,
-				ACEEC9CF2CA8F5570025B89A /* myyfileUITests */,
+				ACEECA3C2CA8FCB60025B89A /* caseydatabase */,
+				ACEECA4C2CA8FCB70025B89A /* caseydatabaseTests */,
+				ACEECA562CA8FCB70025B89A /* caseydatabaseUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		ACEEC9B32CA8F5550025B89A /* Resources */ = {
+		ACEECA3B2CA8FCB60025B89A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		ACEEC9C42CA8F5570025B89A /* Resources */ = {
+		ACEECA4B2CA8FCB70025B89A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		ACEEC9CE2CA8F5570025B89A /* Resources */ = {
+		ACEECA552CA8FCB70025B89A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		ACEEC9B12CA8F5550025B89A /* Sources */ = {
+		ACEECA392CA8FCB60025B89A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		ACEEC9C22CA8F5570025B89A /* Sources */ = {
+		ACEECA492CA8FCB70025B89A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		ACEEC9CC2CA8F5570025B89A /* Sources */ = {
+		ACEECA532CA8FCB70025B89A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		ACEEC9C82CA8F5570025B89A /* PBXTargetDependency */ = {
+		ACEECA4F2CA8FCB70025B89A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = ACEEC9B42CA8F5550025B89A /* myyfile */;
-			targetProxy = ACEEC9C72CA8F5570025B89A /* PBXContainerItemProxy */;
+			target = ACEECA3C2CA8FCB60025B89A /* caseydatabase */;
+			targetProxy = ACEECA4E2CA8FCB70025B89A /* PBXContainerItemProxy */;
 		};
-		ACEEC9D22CA8F5570025B89A /* PBXTargetDependency */ = {
+		ACEECA592CA8FCB70025B89A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = ACEEC9B42CA8F5550025B89A /* myyfile */;
-			targetProxy = ACEEC9D12CA8F5570025B89A /* PBXContainerItemProxy */;
+			target = ACEECA3C2CA8FCB60025B89A /* caseydatabase */;
+			targetProxy = ACEECA582CA8FCB70025B89A /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		ACEEC9D82CA8F5570025B89A /* Debug */ = {
+		ACEECA5F2CA8FCB70025B89A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -321,16 +321,18 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
-		ACEEC9D92CA8F5570025B89A /* Release */ = {
+		ACEECA602CA8FCB70025B89A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -376,88 +378,73 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		ACEEC9DB2CA8F5570025B89A /* Debug */ = {
+		ACEECA622CA8FCB70025B89A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = myyfile/myyfile.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"myyfile/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"caseydatabase/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
-				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
-				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 14.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = mhacks.myyfile;
+				PRODUCT_BUNDLE_IDENTIFIER = mhacks.caseydatabase;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
-				XROS_DEPLOYMENT_TARGET = 2.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		ACEEC9DC2CA8F5570025B89A /* Release */ = {
+		ACEECA632CA8FCB70025B89A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = myyfile/myyfile.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"myyfile/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"caseydatabase/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
-				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
-				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 14.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = mhacks.myyfile;
+				PRODUCT_BUNDLE_IDENTIFIER = mhacks.caseydatabase;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
-				XROS_DEPLOYMENT_TARGET = 2.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
-		ACEEC9DE2CA8F5570025B89A /* Debug */ = {
+		ACEECA652CA8FCB70025B89A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -465,21 +452,17 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
-				MACOSX_DEPLOYMENT_TARGET = 14.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = mhacks.myyfileTests;
+				PRODUCT_BUNDLE_IDENTIFIER = mhacks.caseydatabaseTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/myyfile.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/myyfile";
-				XROS_DEPLOYMENT_TARGET = 2.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/caseydatabase.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/caseydatabase";
 			};
 			name = Debug;
 		};
-		ACEEC9DF2CA8F5570025B89A /* Release */ = {
+		ACEECA662CA8FCB70025B89A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -487,102 +470,88 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
-				MACOSX_DEPLOYMENT_TARGET = 14.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = mhacks.myyfileTests;
+				PRODUCT_BUNDLE_IDENTIFIER = mhacks.caseydatabaseTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/myyfile.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/myyfile";
-				XROS_DEPLOYMENT_TARGET = 2.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/caseydatabase.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/caseydatabase";
 			};
 			name = Release;
 		};
-		ACEEC9E12CA8F5570025B89A /* Debug */ = {
+		ACEECA682CA8FCB70025B89A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
-				MACOSX_DEPLOYMENT_TARGET = 14.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = mhacks.myyfileUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = mhacks.caseydatabaseUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = myyfile;
-				XROS_DEPLOYMENT_TARGET = 2.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = caseydatabase;
 			};
 			name = Debug;
 		};
-		ACEEC9E22CA8F5570025B89A /* Release */ = {
+		ACEECA692CA8FCB70025B89A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
-				MACOSX_DEPLOYMENT_TARGET = 14.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = mhacks.myyfileUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = mhacks.caseydatabaseUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = myyfile;
-				XROS_DEPLOYMENT_TARGET = 2.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = caseydatabase;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		ACEEC9B02CA8F5550025B89A /* Build configuration list for PBXProject "myyfile" */ = {
+		ACEECA382CA8FCB60025B89A /* Build configuration list for PBXProject "caseydatabase" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				ACEEC9D82CA8F5570025B89A /* Debug */,
-				ACEEC9D92CA8F5570025B89A /* Release */,
+				ACEECA5F2CA8FCB70025B89A /* Debug */,
+				ACEECA602CA8FCB70025B89A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		ACEEC9DA2CA8F5570025B89A /* Build configuration list for PBXNativeTarget "myyfile" */ = {
+		ACEECA612CA8FCB70025B89A /* Build configuration list for PBXNativeTarget "caseydatabase" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				ACEEC9DB2CA8F5570025B89A /* Debug */,
-				ACEEC9DC2CA8F5570025B89A /* Release */,
+				ACEECA622CA8FCB70025B89A /* Debug */,
+				ACEECA632CA8FCB70025B89A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		ACEEC9DD2CA8F5570025B89A /* Build configuration list for PBXNativeTarget "myyfileTests" */ = {
+		ACEECA642CA8FCB70025B89A /* Build configuration list for PBXNativeTarget "caseydatabaseTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				ACEEC9DE2CA8F5570025B89A /* Debug */,
-				ACEEC9DF2CA8F5570025B89A /* Release */,
+				ACEECA652CA8FCB70025B89A /* Debug */,
+				ACEECA662CA8FCB70025B89A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		ACEEC9E02CA8F5570025B89A /* Build configuration list for PBXNativeTarget "myyfileUITests" */ = {
+		ACEECA672CA8FCB70025B89A /* Build configuration list for PBXNativeTarget "caseydatabaseUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				ACEEC9E12CA8F5570025B89A /* Debug */,
-				ACEEC9E22CA8F5570025B89A /* Release */,
+				ACEECA682CA8FCB70025B89A /* Debug */,
+				ACEECA692CA8FCB70025B89A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = ACEEC9AD2CA8F5550025B89A /* Project object */;
+	rootObject = ACEECA352CA8FCB60025B89A /* Project object */;
 }

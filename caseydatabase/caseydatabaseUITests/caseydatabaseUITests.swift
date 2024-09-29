@@ -1,13 +1,13 @@
 //
-//  myyfileUITests.swift
-//  myyfileUITests
+//  caseydatabaseUITests.swift
+//  caseydatabaseUITests
 //
 //  Created by Casey Feng on 9/28/24.
 //
 
 import XCTest
 
-final class myyfileUITests: XCTestCase {
+final class caseydatabaseUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

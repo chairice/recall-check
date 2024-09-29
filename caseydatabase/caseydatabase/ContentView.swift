@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  myyfile
+//  caseydatabase
 //
 //  Created by Casey Feng on 9/28/24.
 //
@@ -15,7 +15,8 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Hello, world!")
         }
-        .padding()rgbuhwaue
+        .padding()
+    }
 }
 
 #Preview {
